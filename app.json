@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "plantmanager",
+    "name": "PlantManager",
     "slug": "plantmanager",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -23,10 +23,13 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.gbdev13.plantmanager"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Manage your plants",
+    "githubUrl": "https://github.com/GBDev13/plantmanager"
   }
 }
